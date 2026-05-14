@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @JApluu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-👋 Hi, RAJ PRAJAPATI
 
-<!---
-JApluu/JApluu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 BSc Computer Science Student
+🤖 Currently learning AI/ML
+🐍 Learning Python and building projects
+🚀 Interested in Technology, Automation & AI Tools
+
+🌱 Currently Learning
+Python Programming
+Artificial Intelligence & Machine Learning
+Git & GitHub
+AI Video & Automation Tools
+🎯 Goals
+Build real-world AI projects
+Improve programming skills
+Contribute to open-source projects
+Create useful and creative tech content
+⚡ Fun Fact
+
+I love exploring new AI tools and experimenting with creative tech ideas.
