@@ -1,20 +1,22 @@
--👋 Hi, RAJ PRAJAPATI
+AI-Powered E-Commerce Recommendation System
+I-Powered E-Commerce Recommendation System
+A smart e-commerce web application designed to provide personalized fashion and clothing recommendations based on user demographics and physical attributes.
 
-💻 BSc Computer Science Student
-🤖 Currently learning AI/ML
-🐍 Learning Python and building projects
-🚀 Interested in Technology, Automation & AI Tools
+### Key Features
+Personalized Recommendations:** Analyzes user-specific data such as body shape, skin tone, and age to suggest optimal clothing options from the available inventory.
+API Integration:** Leveraged advanced Generative AI APIs to handle intelligent analysis and dynamic product mapping.
+Cloud Deployment:** Successfully deployed and hosted the live application on the Vercel platform.
 
-🌱 Currently Learning
-Python Programming
-Artificial Intelligence & Machine Learning
-Git & GitHub
-AI Video & Automation Tools
-🎯 Goals
-Build real-world AI projects
-Improve programming skills
-Contribute to open-source projects
-Create useful and creative tech content
-⚡ Fun Fact
+### Tech Stack
+rontend/Backend:** Web Technologies
+AI Ecosystem:** Large Language Model APIs
+Deployment & Hosting:** Vercel
 
-I love exploring new AI tools and experimenting with creative tech ideas.
+### Deployment
+Live Demo:** [Launch Web Application](YOUR_LIVE_VERCEL_URL_HERE)
+
+
+
+## Technical Focus & Interests
+Languages & Tools:** Python, Git, GitHub
+Core Areas:** Software Development, Automation, and Computer Science Fundamentals
