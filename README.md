@@ -13,7 +13,8 @@ AI Ecosystem:** Large Language Model APIs
 Deployment & Hosting:** Vercel
 
 ### Deployment
-Live Demo:** [Launch Web Application](YOUR_LIVE_VERCEL_URL_HERE)
+Live Demo:** [Launch Web Application] https://ai-clothes-shop.vercel.app
+
 
 
 
